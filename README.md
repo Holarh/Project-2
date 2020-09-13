@@ -1,6 +1,6 @@
 # Project-2
 
-[Project 2: Research on companies on Yelp]
+# [Research on companies on Yelp](https://github.com/Holarh/Project-2/blob/master/README.md)
 
   In this project, I did some analysis and i made inferences based on some particular questions using SQLite.
   
